@@ -1,4 +1,4 @@
-# trilha-css-desafio-02
+# trilha-css-desafio-03
 <div  align="center">
 <img  src="assets/img/logo.png"  alt="Banner"  title="Banner">
 </div>
